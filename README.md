@@ -24,10 +24,8 @@ Nemesis Tools is a hacking tool based on Python3, this tool contains paid tools 
     
     python3 main.py
 
-**OUTPUT:**
-```bash
-Tested : 
-
+**Tested:**
+```bash 
               [1] Kali Linux 
               [2] Windows
               [3] Termux (Beta) 
