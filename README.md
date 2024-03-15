@@ -1,9 +1,6 @@
 ### NEMESIS TOOLS🥇
 ### !! DONT SELLING THIS TOOLS! !! 
-Nemesis Tools is a hacking tool based on Python3, this tool contains paid tools which I share for free
-<center>
-<img src="https://raw.githubusercontent.com/MataKucing-OFC/NemesisTools/main/nemesis-tools.png" alt="linux" />
-    **LIST TOOLS:**
+ **LIST TOOLS:**
 ```bash
               [1] Mass Grabber Valid All SMTPs , Twilio, Aws Keys, Nexmo, MySql 
               [2] Mass Aws Keys Quota Checker ++ Auto Root Aws Console (Admin Dashboard (RDPs,VPS, SES ...))
@@ -41,6 +38,10 @@ Mass Smtp Checker
 Mass Grab Sites ViewDns/HackTarget
 Mass SpyMailer Sender
 ```
+Nemesis Tools is a hacking tool based on Python3, this tool contains paid tools which I share for free
+<center>
+<img src="https://raw.githubusercontent.com/MataKucing-OFC/NemesisTools/main/nemesis-tools.png" alt="linux" />
+   
 ### Installation 
 
 ## Steps Install : 
