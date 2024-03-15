@@ -20,7 +20,7 @@
     
     pip install -r requirements.txt
 
-## Step : 4 Run hackingtool
+## Step : 4 Run NemesisTools
     
     python3 main.py
 
