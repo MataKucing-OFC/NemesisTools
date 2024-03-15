@@ -3,6 +3,44 @@
 Nemesis Tools is a hacking tool based on Python3, this tool contains paid tools which I share for free
 <center>
 <img src="https://raw.githubusercontent.com/MataKucing-OFC/NemesisTools/main/nemesis-tools.png" alt="linux" />
+    **LIST TOOLS:**
+```bash
+              [1] Mass Grabber Valid All SMTPs , Twilio, Aws Keys, Nexmo, MySql 
+              [2] Mass Aws Keys Quota Checker ++ Auto Root Aws Console (Admin Dashboard (RDPs,VPS, SES ...))
+              [3] Mass SMTPs Checker
+	      [4] Mass Sendgrid Api Checker
+	      [5] Mass Twilio Checker
+	      [6] Mass Nexmo Balance Checker
+	      [7] Zone-H Grabber
+	      [8] Bing Dorker
+              [9] Mass Reverse Domains
+	      [10] Mass IPS Ranger
+  	      [11] Mass Laravel, Wordpress Filter
+	      [12] MASS BYPASS & UPLOAD SHELL (LARAVEL)
+	      [13] Website Auto Exploit & Upload Shell!
+	      [14] Find Path KcFinder
+NEXT UPDATE :
+Mass Symlink Shells
+Mass Create Smtp From Shells
+Mass Extract Emails From Shells
+Mass Upload Mailers From Shells
+Mass Check Working Shells
+Mass Cp Rest From Shells
+Mass Mail Check From Shells
+Mass Find Access Hash From Shells
+Mass Find Cpanel  From Shells
+Mass File Upload From Shells [Random]
+Mass Symlink & Brute Force Cpanel From Shells
+Mass Wordpress Pass Change From Shells
+Mass Shell Upload In Wordpress Panel
+Shell Replacement  T-Shop/Olux/Xleet
+Mass Cpanel Checker
+Mass Cpanel Upload File
+Mass Email Bounced Checker
+Mass Smtp Checker
+Mass Grab Sites ViewDns/HackTarget
+Mass SpyMailer Sender
+```
 ### Installation 
 
 ## Steps Install : 
