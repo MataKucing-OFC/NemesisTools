@@ -1,0 +1,4 @@
+colorama
+requests
+bs4
+boto3
