@@ -53,7 +53,7 @@ Nemesis Tools is a hacking tool based on Python3, this tool contains paid tools 
 
 ## Step : 2 Move to NemesisTools directory
 
-    cd hackingtool
+    cd NemesisTools
 
 ## Step : 3 Install requirements
     
