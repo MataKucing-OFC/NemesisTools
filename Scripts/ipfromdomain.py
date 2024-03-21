@@ -8,7 +8,7 @@ from time import strftime
 from colorama import Fore,init, Style
 
 def screen_clear():
-    if os.name == "nt":
+	if os.name == "nt":
 		os.system("cls")
 	else:
 		os.system("clear")
