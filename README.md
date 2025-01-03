@@ -37,6 +37,14 @@ NemesisTools
 * [12] MASS BYPASS & UPLOAD SHELL (LARAVEL)
 * [13] Website Auto Exploit & Upload Shell!
 * [14] Find Path KcFinder
+* [15] Website Grabber TLD NEW!! HOT!! & POPULAR!!
+* [16] WPTITAN AUTO EXPLOIT (SHELL PASSWORD IN Results/info.txt) NEW!! HOT!! [Recomended IMPROVED]
+* [17] CVE-2023-5360 Scan NEW!!
+* [18] CVE-2023-4666 Scan NEW!!
+* [19] CVE-2024-2879 Scan NEW!!
+* [20] Grab And Auto Check Valid phpmyadmin Logins [New Feature Added]
+* [21] Mass DA PA CHECKER
+* [22] Auto Traffic (Using Python2)
 
 ## How to Use
 
