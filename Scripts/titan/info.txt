@@ -1,0 +1,10 @@
+Features :
++ 80 Wordpress Exploit
++ Popular Wordpress Shell Finder
++ Fast Scan
++ Multi Scan
+
+Informations :
+1 - Use python3
+2 - /wp-content/updates.php Shell Password : cfwk
+3 - /TitaniumEx.php Shell Use of : /TitaniumEx.php?Titanium=Ex
