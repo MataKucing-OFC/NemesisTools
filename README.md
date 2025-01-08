@@ -22,21 +22,50 @@ The most powerfull exploit tools using base python3 for getting SMTP,AWS,Shell's
 ## List Tools
 
 NemesisTools
+[----------SPAMMING----------]
 
-* [1] Mass Grabber Valid All SMTPs , Twilio, Aws Keys, Nexmo, MySql 
-* [2] Mass Aws Keys Quota Checker ++ Auto Root Aws Console (Admin Dashboard (RDPs,VPS, SES ...))
-* [3] Mass SMTPs Checker
-* [4] Mass Sendgrid Api Checker
-* [5] Mass Twilio Checker
-* [6] Mass Nexmo Balance Checker
-* [7] Zone-H Grabber
-* [8] Bing Dorker
-* [9] Mass Reverse Domains
-* [10] Mass IPS Ranger
-* [11] Mass Laravel, Wordpress Filter
-* [12] MASS BYPASS & UPLOAD SHELL (LARAVEL)
-* [13] Website Auto Exploit & Upload Shell!
-* [14] Find Path KcFinder
+ [1] Mass Grabber Valid All SMTPs, Twilio, Aws Keys, Nexmo, MySql HOT!!
+ [2] Mass Aws Keys Quota Checker ++ Auto Root Aws Console (Admin Dashboard (RDPs,VPS, SES ...)) HOT!!
+ [3] Mass SMTPs Checker
+ [4] Mass Sendgrid Api Checker
+ [5] Mass Twilio Checker
+ [6] Mass Nexmo Balance Checker
+
+[----------HACKING----------]
+
+ [7] Zone-H Grabber
+ [8] Bing Dorker HOT!!
+ [9] Mass Reverse Domains => IPs
+ [10] Mass IPS Ranger
+ [11] Mass Laravel, Wordpress Filter NEW!!
+ [12] MASS BYPASS & UPLOAD SHELL  HOT!!
+ [13] Auto Exploit & Upload Shell NEW!!
+ [14] Find Path KcFinder NEW!!
+ [15] Website Grabber TLD NEW!! HOT!! & POPULAR!!
+ [16] WPTITAN AUTO EXPLOIT (SHELL PASSWORD IN Results/info.txt) NEW!! HOT!! [Recomended IMPROVED]
+ [17] CVE-2023-5360 Scan NEW!!
+ [18] CVE-2023-4666 Scan NEW!!
+ [19] CVE-2024-2879 Scan NEW!!
+ [20] Grab And Auto Check Valid phpmyadmin Logins [New Feature Added]
+
+[----------OTHER----------]
+
+ [21] Mass DA PA CHECKER
+ [22] Auto Traffic (Using Python2)
+
+[----------VIP PRIV8 EXPLOIT (WORDPRESS)----------]
+
+[23] CVE 2024-9593
+[24] FI-AD
+[25] MAMA
+[26] PLUGINS EXPLOIT
+[27] W3B-SH311
+[28] Wp-Back2025
+[29] WP-OWS
+[30] WP PLUGIN
+[31] WP-PRIV8 BackDoor
+[32] WP-PRIV8
+[33] GOOGLE EXPLOIT
 
 ## How to Use
 
