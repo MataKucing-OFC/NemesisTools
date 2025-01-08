@@ -1,0 +1,12 @@
+URL: http://afitec.net
+ Host: mysql.afitec.net
+ Port: 3306
+ DB_Name: afitec
+Username: afitec
+ Password: nescau9523
+URL: http://www.afitec.net
+ Host: mysql.afitec.net
+ Port: 3306
+ DB_Name: afitec
+Username: afitec
+ Password: nescau9523

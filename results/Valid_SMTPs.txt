@@ -1,0 +1,16 @@
+ smtp.gmail.com|587| mail.kontaktcorner@gmail.com| me@kontaktcorner
+smtp.gmail.com|587|zbranoreply@gmail.com|"abobora123"
+mail.noscowinstrument.com|587|sales@noscowinstrument.com|passw0rd4199
+smtp.mailtrap.io|587|null|null
+smtp.touristinformation.cz|587|order@touristinformation.cz|Vfnmhjlyfz230775
+null|587|null|null
+smtp.gmail.com|587|zuhed123@gmail.com|Test@123
+mail.smtp2go.com|587|kh@demo-miq.tk|st1qp1gOfK8X
+smtp.mandrillapp.com|587|drakandriel24@gmail.com|P@tapon123
+smtp.gmail.com|587|zbranoreply@gmail.com|"abobora123"
+mail.bosla.co|587|info@bosla.co|123456789
+mail.sitenewsae.com.br|587|sendmail@sitenewsae.com.br|!1Sitesnewsae
+"mail.virob.com"|587|"noreply@virob.com"|"ejugiter@123"
+smtp.niftyalert.com|587|support@niftyalert.com	|6efLKpljt0IG
+smtp.niftyalert.com|587|support@niftyalert.com	|6efLKpljt0IG
+mail.sitenewsae.com.br|587|sendmail@sitenewsae.com.br|!1Sitesnewsae

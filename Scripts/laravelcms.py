@@ -34,7 +34,7 @@ def laravelcheck (star):
     try:
         if "DB_HOST" in resp:
             print(f"Laravel {gr}OK{res} => {star}\n")
-            mrigel = open("Laravel.txt", "a")
+            mrigel = open("Results/Laravel.txt", "a")
             mrigel.write(f'{star}\n')
         else:
             print(f"{red}Not{res} Laravel => {star}\n")
@@ -51,7 +51,7 @@ def wpcheck (star):
     try:
         if check.status_code == 200:
             print(f"Wordpress {gr}OK{res} => {star}\n")
-            mrigel = open("Wordpress.txt", "a")
+            mrigel = open("Results/Wordpress.txt", "a")
             mrigel.write(f'{star}\n')
         else:
             print(f"{red}Not{res} Wordpress => {star}\n")
@@ -79,7 +79,7 @@ def main():
     list = input(f"{gr}Give Me Your List.txt@{red}Nemesis> {gr}${res} ")
     star = open(list, 'r').readlines()
     try:
-       ThreadPool = Pool(50)
+       ThreadPool = Pool(10)
        ThreadPool.map(filter, star)
        ThreadPool.close()
        ThreadPool.join()
